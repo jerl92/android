@@ -271,5 +271,5 @@
   <project path="vendor/qcom/opensource/omx/mm-core" name="jerl92/android_vendor_qcom_opensource_omx_mm-core" remote="privategh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="jerl92/android_vendor_qcom_opensource_omx_mm-video" remote="privategh" revision="ics" />
 
-  <project path="android" name="jerl92/android" remote="privategh"/>
+  <project path="android" name="jerl92/android" remote="privategh" />
 </manifest>
