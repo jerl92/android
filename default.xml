@@ -5,10 +5,13 @@
            fetch="https://android.googlesource.com/" />
 
   <remote  name="github"
-           fetch=".."
-           review="git://github.com/" />
+           fetch="git://github.com/" 
+           review="review.cyanogenmod.com" />
 
-  <default revision="refs/tree/ics"
+  <remote name = "privategh"
+           fetch="git://github.com/" />
+
+  <default revision="refs/heads/ics"
            remote="github"
            sync-j="4" />
 
