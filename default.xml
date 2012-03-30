@@ -6,7 +6,7 @@
 
   <remote  name="github"
            fetch=".."
-           review="review.cyanogenmod.com" />
+           review="git://github.com/" />
 
   <default revision="refs/heads/ics"
            remote="github"
