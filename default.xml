@@ -259,7 +259,7 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   
-  <project path="packages/apps/Camera" name="ThePlayground/android_packages_apps_Camera" remote="privategh" revision="ics" />
+  <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera"/>
   
   <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="privategh" revision="ics" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="privategh" revision="ics" /> 
