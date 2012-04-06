@@ -259,8 +259,6 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   
-  <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera"/>
-  
   <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="privategh" revision="ics" />
   <project path="vendor/htc/vision" name="Andromadus/proprietary_htc_vision" remote="privategh" revision="ics" /> 
   <project path="packages/providers/ContactsProvider" name = "Andromadus/android_packages_providers_ContactsProvider" remote="privategh" revision="ics" />
@@ -269,6 +267,7 @@
   <project path="device/htc/vision" name="jerl92/android_device_htc_vision" remote="privategh" revision="ics" />
   <project path="frameworks/base" name="jerl92/android_frameworks_base" remote="privategh" revision="ics" />
   <project path="hardware/qcom/display" name="jerl92/android_hardware_qcom_display" remote="privategh" revision="ics" />
+  <project path="packages/apps/Camera" name="jerl92/android_packages_apps_Camera" remote="privategh" revision="ics" />
   <project path="vendor/cm" name="jerl92/android_vendor_cm" remote="privategh" revision="ics" />
     
   <project path="vendor/qcom/opensource/omx/mm-core" name="jerl92/android_vendor_qcom_opensource_omx_mm-core" remote="privategh" revision="ics" />
