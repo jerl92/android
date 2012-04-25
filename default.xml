@@ -262,6 +262,7 @@
   
   <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="privategh" revision="ics" />
   <project path="packages/providers/ContactsProvider" name = "Andromadus/android_packages_providers_ContactsProvider" remote="privategh" revision="ics" />
+  <project path="packages/apps/FM" name = "Andromadus/android_packages_apps_FM" remote="privategh" revision="ics" />
 
   <project path="device/htc/msm7x30-common" name="jerl92/android_device_htc_msm7x30-common" remote="privategh" revision="ics" />
   <project path="device/htc/vision" name="jerl92/android_device_htc_vision" remote="privategh" revision="ics" />
