@@ -217,7 +217,6 @@
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
-  <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
@@ -269,6 +268,7 @@
   <project path="frameworks/base" name="jerl92/android_frameworks_base" remote="privategh" revision="ics" />
   <project path="hardware/qcom/display" name="jerl92/android_hardware_qcom_display" remote="privategh" revision="ics" />
   <project path="packages/apps/Camera" name="jerl92/android_packages_apps_Camera" remote="privategh" revision="ics" />
+  <project path="packages/apps/Settings" name="jerl92/android_packages_apps_Settings" remote="privategh" revision="ics" />
   <project path="vendor/htc/vision" name="jerl92/proprietary_htc_vision" remote="privategh" revision="ics" /> 
     
   <project path="vendor/qcom/opensource/omx/mm-core" name="jerl92/android_vendor_qcom_opensource_omx_mm-core" remote="privategh" revision="ics" />
