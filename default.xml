@@ -203,6 +203,7 @@
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
+  <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" />
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
@@ -257,8 +258,6 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
-  
-  <project path="packages/apps/Mms" name="opendesign/android_packages_apps_Mms" remote="privategh" revision="ics" />
   
   <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="privategh" revision="ics" />
   <project path="packages/providers/ContactsProvider" name = "Andromadus/android_packages_providers_ContactsProvider" remote="privategh" revision="ics" />
