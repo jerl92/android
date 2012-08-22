@@ -274,6 +274,7 @@
   <project path="device/htc/vision" name="jerl92/android_device_htc_vision" />
   <project path="frameworks/base" name="jerl92/android_frameworks_base" remote="privategh" revision="ics" />
   <project path="hardware/qcom/display" name="jerl92/android_hardware_qcom_display" remote="privategh" revision="ics" />
+  <project path="kernel/htc/msm7x30-3.0" name="jerl92/htc7x30-3.0" revision="master" />
   <project path="packages/apps/Camera" name="jerl92/android_packages_apps_Camera" remote="privategh" revision="ics" />
   <project path="vendor/htc/vision" name="jerl92/proprietary_htc_vision" remote="privategh" revision="ics" /> 
 
