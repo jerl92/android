@@ -337,7 +337,7 @@
   <project path="device/htc/vision" name="jerl92/android_device_htc_vision" remote="private" revision="jellybean" />
   <project path="frameworks/base" name="jerl92/android_frameworks_base" remote="private" revision="jellybean" />
   <project path="kernel/htc/msm7x30-3.0" name="Andromadus/htc7x30-3.0" revision="andromadus" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" remote="private" revision="jellybean" />
+  <project path="prebuilt/linux-x86/toolchain/arm-eabi-linaro-4.7" name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" remote="private" revision="jellybean" />
   <project path="vendor/htc/vision" name="jerl92/proprietary_htc_vision" remote="private" revision="jellybean" />
 
 </manifest>
